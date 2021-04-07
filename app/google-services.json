@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "482291581454",
+    "firebase_url": "https://meetpetv6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "meetpetv6",
+    "storage_bucket": "meetpetv6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482291581454:android:56e83997948beaa01b325f",
+        "android_client_info": {
+          "package_name": "my.insta.MeetPetV6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482291581454-2j53ca605ik808asitc76e031c375bah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.insta.MeetPetV6",
+            "certificate_hash": "939e6605f2ec6bfac847192badc5bcdf58349951"
+          }
+        },
+        {
+          "client_id": "482291581454-rq6kh65r415td0en0pm1ahgbutrkfk3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj668FEemDGeWUCUJzKS-a8jjAqNCaHwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482291581454-rq6kh65r415td0en0pm1ahgbutrkfk3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482291581454:android:cd1d96bd555d1eeb1b325f",
+        "android_client_info": {
+          "package_name": "my.insta.androrealm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482291581454-rq6kh65r415td0en0pm1ahgbutrkfk3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj668FEemDGeWUCUJzKS-a8jjAqNCaHwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482291581454-rq6kh65r415td0en0pm1ahgbutrkfk3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482291581454:android:13baa7a39c8b834e1b325f",
+        "android_client_info": {
+          "package_name": "my.pet.MeetPetV6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482291581454-rq6kh65r415td0en0pm1ahgbutrkfk3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj668FEemDGeWUCUJzKS-a8jjAqNCaHwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482291581454-rq6kh65r415td0en0pm1ahgbutrkfk3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
